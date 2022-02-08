@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1,PT| CANAL 11 FHD
+http://hdlocal.de:8080/Admin/Admin/265011182
+#EXTINF:-1,PT| TVI FHD 
+http://hdlocal.de:8080/Admin/Admin/265011199
+#EXTINF:-1,PT| INVESTIGATION DISCOVERY HD
+http://hdlocal.de:8080/Admin/Admin/265011152
+#EXTINF:-1,PT| HOLLYWOOD FHD
+http://hdlocal.de:8080/Admin/Admin/7212
+#EXTINF:-1,PT| BENFICA TV FHD
+http://hdlocal.de:8080/Admin/Admin/4269
+#EXTINF:-1,PT| 24 KITCHEN FHD
+http://hdlocal.de:8080/Admin/Admin/4268
+#EXTINF:-1,PT| SPORT TV 1 FHD
+http://hdlocal.de:8080/Admin/Admin/4445
+#EXTINF:-1,PT| SPORT TV 2 FHD
+http://hdlocal.de:8080/Admin/Admin/4444
+#EXTINF:-1,PT| SPORT TV 3 FHD
+http://hdlocal.de:8080/Admin/Admin/4443
+#EXTINF:-1,PT| SPORT TV 4 FHD
+http://hdlocal.de:8080/Admin/Admin/4441
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://hdlocal.de:8080/Admin/Admin/4439
+#EXTINF:-1,PT| RTP 1  FHD
+http://hdlocal.de:8080/Admin/Admin/4492
+#EXTINF:-1,PT| RTP 1 HD
+http://hdlocal.de:8080/Admin/Admin/1727
+#EXTINF:-1,PT| RTP 2 HD
+http://hdlocal.de:8080/Admin/Admin/1726
+#EXTINF:-1,PT| RTP 3 HD
+http://hdlocal.de:8080/Admin/Admin/1715
+#EXTINF:-1,PT| TVI HD
+http://hdlocal.de:8080/Admin/Admin/4493
+#EXTINF:-1,PT| TVI HD
+http://hdlocal.de:8080/Admin/Admin/1674
+#EXTINF:-1,PT| TVI REALITY
+http://hdlocal.de:8080/Admin/Admin/1672
+#EXTINF:-1,PT| TVI FICCAO
+http://hdlocal.de:8080/Admin/Admin/2647
+#EXTINF:-1,PT| RTP  MADEIRA
+http://hdlocal.de:8080/Admin/Admin/2321
+#EXTINF:-1,PT| RTP ACORES
+http://hdlocal.de:8080/Admin/Admin/2649
+#EXTINF:-1,PT| RTP MEMORIA
+http://hdlocal.de:8080/Admin/Admin/1683
+#EXTINF:-1,PT| RTP INTERNATIONAL
+http://hdlocal.de:8080/Admin/Admin/1658
+#EXTINF:-1,PT| RTP ACORESS
+http://hdlocal.de:8080/Admin/Admin/1685
+#EXTINF:-1,PT| RTP AFRICA
+http://hdlocal.de:8080/Admin/Admin/1684
+#EXTINF:-1,PT| SIC RADICAL
+http://hdlocal.de:8080/Admin/Admin/1656
+#EXTINF:-1,PT| CANAL Q
+http://hdlocal.de:8080/Admin/Admin/1704
+#EXTINF:-1,PT| SIC MULHER
+http://hdlocal.de:8080/Admin/Admin/1682
+#EXTINF:-1,PT| SIC HD
+http://hdlocal.de:8080/Admin/Admin/1725
+#EXTINF:-1,PT| TVI FHD.
+http://hdlocal.de:8080/Admin/Admin/2334
+#EXTINF:-1,PT| CM TV HD
+http://hdlocal.de:8080/Admin/Admin/1700
+#EXTINF:-1,PT| TVI 24 HD
+http://hdlocal.de:8080/Admin/Admin/1673
+#EXTINF:-1,PT| SIC NOTICIAS
+http://hdlocal.de:8080/Admin/Admin/1657
+#EXTINF:-1,PT| E! HD
+http://hdlocal.de:8080/Admin/Admin/1695
+#EXTINF:-1,PT| FOX NEWS
+http://hdlocal.de:8080/Admin/Admin/2331
+#EXTINF:-1,PT| SIC KIDS
+http://hdlocal.de:8080/Admin/Admin/2329
+#EXTINF:-1,PT| BABY TV
+http://hdlocal.de:8080/Admin/Admin/1708
+#EXTINF:-1,PT| DISNEY JUNIOR HD
+http://hdlocal.de:8080/Admin/Admin/1696
+#EXTINF:-1,PT| DISNEY CHANNEL
+http://hdlocal.de:8080/Admin/Admin/1697
+#EXTINF:-1,PT| CANAL PANDA
+http://hdlocal.de:8080/Admin/Admin/1705
+#EXTINF:-1,PT| NICKELODEON HD
+http://hdlocal.de:8080/Admin/Admin/1688
+#EXTINF:-1,PT| JIM JAM
+http://hdlocal.de:8080/Admin/Admin/1661
+#EXTINF:-1,PT| BIGGS
+http://hdlocal.de:8080/Admin/Admin/2328
+#EXTINF:-1,PT| NOS STUDIOS
+http://hdlocal.de:8080/Admin/Admin/1659
+#EXTINF:-1,PT| TV CINE TOP HD
+http://hdlocal.de:8080/Admin/Admin/1716
+#EXTINF:-1,PT| TV CINE EDITION   HD
+http://hdlocal.de:8080/Admin/Admin/1717
+#EXTINF:-1,PT| TV CINE EMOTION HD
+http://hdlocal.de:8080/Admin/Admin/1718
+#EXTINF:-1,PT| TV CINE ACTION HD
+http://hdlocal.de:8080/Admin/Admin/1719
+#EXTINF:-1,PT| CINEMUNDO HD
+http://hdlocal.de:8080/Admin/Admin/1701
+#EXTINF:-1,PT| TV SERIES FHD
+http://hdlocal.de:8080/Admin/Admin/1675
+#EXTINF:-1,PT| AMC HD
+http://hdlocal.de:8080/Admin/Admin/1709
+#EXTINF:-1,PT| HOLLYWOOD HD
+http://hdlocal.de:8080/Admin/Admin/1662
+#EXTINF:-1,PT| FOX HD
+http://hdlocal.de:8080/Admin/Admin/1663
+#EXTINF:-1,PT| FOX MOVIES HD
+http://hdlocal.de:8080/Admin/Admin/1729
+#EXTINF:-1,PT| FOX COMEDY HD
+http://hdlocal.de:8080/Admin/Admin/1694
+#EXTINF:-1,PT| FOX LIFE HD
+http://hdlocal.de:8080/Admin/Admin/1664
+#EXTINF:-1,PT| FOX CRIME
+http://hdlocal.de:8080/Admin/Admin/1665
+#EXTINF:-1,PT| AXN HD
+http://hdlocal.de:8080/Admin/Admin/1714
+#EXTINF:-1,PT| AXN BLACK HD
+http://hdlocal.de:8080/Admin/Admin/2140
+#EXTINF:-1,PT| AXN WHITE HD
+http://hdlocal.de:8080/Admin/Admin/1713
+#EXTINF:-1,PT| SYFY HD
+http://hdlocal.de:8080/Admin/Admin/1655
+#EXTINF:-1,PT| AMC HD
+http://hdlocal.de:8080/Admin/Admin/1728
+#EXTINF:-1,PT| SPORT TV+
+http://hdlocal.de:8080/Admin/Admin/2324
+#EXTINF:-1,PT| SPORT TV 1 HD 720p
+http://hdlocal.de:8080/Admin/Admin/4437
+#EXTINF:-1,PT| SPORT TV 1 SD
+http://hdlocal.de:8080/Admin/Admin/4438
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://hdlocal.de:8080/Admin/Admin/1721
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://hdlocal.de:8080/Admin/Admin/1722
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://hdlocal.de:8080/Admin/Admin/1723
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://hdlocal.de:8080/Admin/Admin/1724
+#EXTINF:-1,PT| SPORT TV  5 HD
+http://hdlocal.de:8080/Admin/Admin/2139
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://hdlocal.de:8080/Admin/Admin/2295
+#EXTINF:-1,PT| BENFICA TV 1
+http://hdlocal.de:8080/Admin/Admin/1670
+#EXTINF:-1,PT| BENFICA TV 2
+http://hdlocal.de:8080/Admin/Admin/1669
+#EXTINF:-1,PT| SPORTING TV
+http://hdlocal.de:8080/Admin/Admin/1720
+#EXTINF:-1,PT| PORTO CANAL
+http://hdlocal.de:8080/Admin/Admin/1660
+#EXTINF:-1,PT| PORTO  CANAL
+http://hdlocal.de:8080/Admin/Admin/2772
+#EXTINF:-1,PT| TOROS TV
+http://hdlocal.de:8080/Admin/Admin/1680
+#EXTINF:-1,PT| MOTORS TV
+http://hdlocal.de:8080/Admin/Admin/1692
+#EXTINF:-1,PT| FUEL TV
+http://hdlocal.de:8080/Admin/Admin/1693
+#EXTINF:-1,PT|  A BOLA TV
+http://hdlocal.de:8080/Admin/Admin/1710
+#EXTINF:-1,PT| MOTORVISION
+http://hdlocal.de:8080/Admin/Admin/2327
+#EXTINF:-1,PT| PFC HD
+http://hdlocal.de:8080/Admin/Admin/1686
+#EXTINF:-1,PT| CRIME INVESTIGATION HD
+http://hdlocal.de:8080/Admin/Admin/265011151
+#EXTINF:-1,PT| MY CUISINE TV HD
+http://hdlocal.de:8080/Admin/Admin/9353
+#EXTINF:-1,PT| 24 KITCHEN
+http://hdlocal.de:8080/Admin/Admin/1712
+#EXTINF:-1,PT| NATIONAL GEOGRAPHIC
+http://hdlocal.de:8080/Admin/Admin/1690
+#EXTINF:-1,PT| NATIONAL GEO WILD
+http://hdlocal.de:8080/Admin/Admin/1689
+#EXTINF:-1,PT| ODISSEIA HD
+http://hdlocal.de:8080/Admin/Admin/1687
+#EXTINF:-1,PT| DISCOVERY HD SHOWCASE
+http://hdlocal.de:8080/Admin/Admin/1698
+#EXTINF:-1,PT| DISCOVERY CHANNEL
+http://hdlocal.de:8080/Admin/Admin/1699
+#EXTINF:-1,PT| CBS REALITY
+http://hdlocal.de:8080/Admin/Admin/1703
+#EXTINF:-1,PT| CANAL HISTORIA
+http://hdlocal.de:8080/Admin/Admin/1706
+#EXTINF:-1,PT| CACA & PESCA
+http://hdlocal.de:8080/Admin/Admin/2323
+#EXTINF:-1,PT| CACA E PESCA
+http://hdlocal.de:8080/Admin/Admin/2322
+#EXTINF:-1,PT| A&E HD
+http://hdlocal.de:8080/Admin/Admin/1711
+#EXTINF:-1,PT| CANAL  TOROS
+http://hdlocal.de:8080/Admin/Admin/2554
+#EXTINF:-1,PT| TLC HD
+http://hdlocal.de:8080/Admin/Admin/1681
+#EXTINF:-1,PT| TRAVEL CHANNEL HD
+http://hdlocal.de:8080/Admin/Admin/2773
+#EXTINF:-1,PT| TPA INTERN
+http://hdlocal.de:8080/Admin/Admin/1679
+#EXTINF:-1,PT| MTV  DANCE
+http://hdlocal.de:8080/Admin/Admin/2145
+#EXTINF:-1,PT| MCM TOP
+http://hdlocal.de:8080/Admin/Admin/2146
+#EXTINF:-1,PT| VH1 CLASSIC HD
+http://hdlocal.de:8080/Admin/Admin/3091
+#EXTINF:-1,PT| VH1 HD
+http://hdlocal.de:8080/Admin/Admin/2143
+#EXTINF:-1,PT| VH1+
+http://hdlocal.de:8080/Admin/Admin/1671
+#EXTINF:-1,PT| TRACE URBAN TV
+http://hdlocal.de:8080/Admin/Admin/2142
+#EXTINF:-1,PT| AFRO MUSIC
+http://hdlocal.de:8080/Admin/Admin/2141
+#EXTINF:-1,PT| TV RECORD
+http://hdlocal.de:8080/Admin/Admin/1676
+#EXTINF:-1,PT| TV GLOBO PREMUIM
+http://hdlocal.de:8080/Admin/Admin/1677
+#EXTINF:-1,PT| TV GLOBO
+http://hdlocal.de:8080/Admin/Admin/1678
+#EXTINF:-1,PT| MTV PORTUGAL
+http://hdlocal.de:8080/Admin/Admin/1691
+#EXTINF:-1,PT| BLAZE HD
+http://hdlocal.de:8080/Admin/Admin/265014130
+#EXTINF:-1,PT| KOMBAT SPORT 
+http://hdlocal.de:8080/Admin/Admin/665014800
+#EXTINF:-1,PT| AXN MOVIES HD
+http://hdlocal.de:8080/Admin/Admin/665014692
+#EXTINF:-1,PT| REDBULL TV
+http://hdlocal.de:8080/Admin/Admin/665024676
